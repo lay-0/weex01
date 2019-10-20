@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 This boilerplate is targeted towards large, serious projects and assumes you are somewhat familiar with Webpack and `weex-loader`. 
@@ -25,3 +26,6 @@ Then, you just need to change the `style` tag as: `<style lang="sass"><style>`.
 ## How to create your own template
 
 See [How-to-create-your-own-template](https://github.com/weex-templates/How-to-create-your-own-template).
+=======
+# weex01
+>>>>>>> 06596199d3cca82c08008f50e3b3298014d57cf0
